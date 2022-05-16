@@ -1,0 +1,61 @@
+﻿<?xml version="1.0"?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+    <EditionUID>270184282526988638</EditionUID>
+    <ChapterAtom>
+      <ChapterUID>15110865284317096225</ChapterUID>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>[YuDo] Prolog</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+        <ChapLanguageIETF>und</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>4714511994698509304</ChapterUID>
+      <ChapterTimeStart>00:00:39.010000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>[YuDo] OP</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+        <ChapLanguageIETF>und</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>5073793201247954613</ChapterUID>
+      <ChapterTimeStart>00:02:08.980000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>[YuDo] Bagian 1</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+        <ChapLanguageIETF>und</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>4986843455830332550</ChapterUID>
+      <ChapterTimeStart>00:10:17.010000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>[YuDo] Bagian 2</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+        <ChapLanguageIETF>und</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>2392514615472298676</ChapterUID>
+      <ChapterTimeStart>00:20:00.010000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>[YuDo] ED</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+        <ChapLanguageIETF>und</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>7241323230307826413</ChapterUID>
+      <ChapterTimeStart>00:21:30.020000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>[YuDo] Epilog</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+        <ChapLanguageIETF>und</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>
